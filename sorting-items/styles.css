@@ -1,0 +1,21 @@
+#main {
+    display: flex;
+    gap: 20px;
+}
+  
+#main .item {
+    background: aqua;
+}
+    
+#favs .item {
+    background: #da5252;
+    color: #ffffff;
+}
+  
+.sortElement {
+    cursor: pointer;
+    background-color: yellow;
+    color: black;
+    padding: 4px 10px;
+}
+  
